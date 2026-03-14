@@ -89,6 +89,18 @@ However, the predictive models achieved relatively low accuracy, indicating that
 
 ---
 
+## Running the Application
+
+To run the Streamlit dashboard locally:
+
+1. Clone the repository
+2. Install the required packages
+3. Run the following command:
+
+streamlit run app.py
+
+The dashboard will open in your browser.
+
 ## Potential Applications
 The insights from this analysis may support:
 
