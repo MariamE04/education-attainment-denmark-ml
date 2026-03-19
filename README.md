@@ -72,7 +72,9 @@ Model evaluation was performed using metrics such as:
 - Confusion Matrix
 
 ### Stage 4 – Business Application
-The results are presented through visualisations and a prototype solution aimed at making the analysis understandable for non-technical users.
+
+The results are presented through a Streamlit web application that allows users to explore the data, visualisations, and model predictions interactively.
+The application includes dashboards, visualisations, and a prediction interface designed for non-technical users.
 
 ---
 
