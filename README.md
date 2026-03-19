@@ -1,5 +1,10 @@
 # Education Attainment in Denmark – BI & Machine Learning Project
 
+## Group members 
+- Abbas Mahmoud Badreddine
+- Mariam Lumiere El Mir
+
+
 ## Project Overview
 This project analyses how demographic factors such as **gender, origin, and age** relate to **educational attainment in Denmark**.  
 The analysis is based on data from **Statistics Denmark (DST)** and focuses on individuals aged **20–39 years** between **2020–2024**.
