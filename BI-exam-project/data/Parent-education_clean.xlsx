@@ -1,0 +1,401 @@
+education,age,parent_education,2020,2021,2022,2023,2024,age_num,total_2020_2024,parent_level,education_level,education_score,cluster
+Ingen ungdomsuddannelse,18 år,H10 Grundskole,0.0,0.0,0.0,0.0,0.0,18,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,18 år,H20 Gymnasiale uddannelser,0.0,0.0,0.0,0.0,0.0,18,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,18 år,H30 Erhvervsfaglige uddannelser,0.0,0.0,0.0,0.0,0.0,18,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,18 år,H35 Adgangsgivende uddannelsesforløb,0.0,0.0,0.0,0.0,0.0,18,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,18 år,"H40 Korte videregående uddannelser, KVU",0.0,0.0,0.0,0.0,0.0,18,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,18 år,"H50 Mellemlange videregående uddannelser, MVU",0.0,0.0,0.0,0.0,0.0,18,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,18 år,"H60 Bacheloruddannelser, BACH",0.0,0.0,0.0,0.0,0.0,18,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,18 år,"H70 Lange videregående uddannelser, LVU",0.0,0.0,0.0,0.0,0.0,18,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,18 år,H80 Ph.d. og forskeruddannelser,0.0,0.0,0.0,0.0,0.0,18,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,18 år,H90 Uoplyst mv.,0.0,0.0,0.0,0.0,0.0,18,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,19 år,H10 Grundskole,0.0,0.0,0.0,0.0,0.0,19,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,19 år,H20 Gymnasiale uddannelser,0.0,0.0,0.0,0.0,0.0,19,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,19 år,H30 Erhvervsfaglige uddannelser,0.0,0.0,0.0,0.0,0.0,19,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,19 år,H35 Adgangsgivende uddannelsesforløb,0.0,0.0,0.0,0.0,0.0,19,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,19 år,"H40 Korte videregående uddannelser, KVU",0.0,0.0,0.0,0.0,0.0,19,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,19 år,"H50 Mellemlange videregående uddannelser, MVU",0.0,0.0,0.0,0.0,0.0,19,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,19 år,"H60 Bacheloruddannelser, BACH",0.0,0.0,0.0,0.0,0.0,19,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,19 år,"H70 Lange videregående uddannelser, LVU",0.0,0.0,0.0,0.0,0.0,19,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,19 år,H80 Ph.d. og forskeruddannelser,0.0,0.0,0.0,0.0,0.0,19,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,19 år,H90 Uoplyst mv.,0.0,0.0,0.0,0.0,0.0,19,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,20 år,H10 Grundskole,0.0,0.0,0.0,0.0,0.0,20,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,20 år,H20 Gymnasiale uddannelser,0.0,0.0,0.0,0.0,0.0,20,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,20 år,H30 Erhvervsfaglige uddannelser,0.0,0.0,0.0,0.0,0.0,20,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,20 år,H35 Adgangsgivende uddannelsesforløb,0.0,0.0,0.0,0.0,0.0,20,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,20 år,"H40 Korte videregående uddannelser, KVU",0.0,0.0,0.0,0.0,0.0,20,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,20 år,"H50 Mellemlange videregående uddannelser, MVU",0.0,0.0,0.0,0.0,0.0,20,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,20 år,"H60 Bacheloruddannelser, BACH",0.0,0.0,0.0,0.0,0.0,20,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,20 år,"H70 Lange videregående uddannelser, LVU",0.0,0.0,0.0,0.0,0.0,20,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,20 år,H80 Ph.d. og forskeruddannelser,0.0,0.0,0.0,0.0,0.0,20,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,20 år,H90 Uoplyst mv.,0.0,0.0,0.0,0.0,0.0,20,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,21 år,H10 Grundskole,0.0,0.0,0.0,0.0,0.0,21,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,21 år,H20 Gymnasiale uddannelser,0.0,0.0,0.0,0.0,0.0,21,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,21 år,H30 Erhvervsfaglige uddannelser,0.0,0.0,0.0,0.0,0.0,21,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,21 år,H35 Adgangsgivende uddannelsesforløb,0.0,0.0,0.0,0.0,0.0,21,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,21 år,"H40 Korte videregående uddannelser, KVU",0.0,0.0,0.0,0.0,0.0,21,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,21 år,"H50 Mellemlange videregående uddannelser, MVU",0.0,0.0,0.0,0.0,0.0,21,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,21 år,"H60 Bacheloruddannelser, BACH",0.0,0.0,0.0,0.0,0.0,21,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,21 år,"H70 Lange videregående uddannelser, LVU",0.0,0.0,0.0,0.0,0.0,21,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,21 år,H80 Ph.d. og forskeruddannelser,0.0,0.0,0.0,0.0,0.0,21,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,21 år,H90 Uoplyst mv.,0.0,0.0,0.0,0.0,0.0,21,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,22 år,H10 Grundskole,0.0,0.0,0.0,0.0,0.0,22,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,22 år,H20 Gymnasiale uddannelser,0.0,0.0,0.0,0.0,0.0,22,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,22 år,H30 Erhvervsfaglige uddannelser,0.0,0.0,0.0,0.0,0.0,22,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,22 år,H35 Adgangsgivende uddannelsesforløb,0.0,0.0,0.0,0.0,0.0,22,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,22 år,"H40 Korte videregående uddannelser, KVU",0.0,0.0,0.0,0.0,0.0,22,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,22 år,"H50 Mellemlange videregående uddannelser, MVU",0.0,0.0,0.0,0.0,0.0,22,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,22 år,"H60 Bacheloruddannelser, BACH",0.0,0.0,0.0,0.0,0.0,22,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,22 år,"H70 Lange videregående uddannelser, LVU",0.0,0.0,0.0,0.0,0.0,22,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,22 år,H80 Ph.d. og forskeruddannelser,0.0,0.0,0.0,0.0,0.0,22,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,22 år,H90 Uoplyst mv.,0.0,0.0,0.0,0.0,0.0,22,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,23 år,H10 Grundskole,0.0,0.0,0.0,0.0,0.0,23,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,23 år,H20 Gymnasiale uddannelser,0.0,0.0,0.0,0.0,0.0,23,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,23 år,H30 Erhvervsfaglige uddannelser,0.0,0.0,0.0,0.0,0.0,23,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,23 år,H35 Adgangsgivende uddannelsesforløb,0.0,0.0,0.0,0.0,0.0,23,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,23 år,"H40 Korte videregående uddannelser, KVU",0.0,0.0,0.0,0.0,0.0,23,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,23 år,"H50 Mellemlange videregående uddannelser, MVU",0.0,0.0,0.0,0.0,0.0,23,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,23 år,"H60 Bacheloruddannelser, BACH",0.0,0.0,0.0,0.0,0.0,23,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,23 år,"H70 Lange videregående uddannelser, LVU",0.0,0.0,0.0,0.0,0.0,23,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,23 år,H80 Ph.d. og forskeruddannelser,0.0,0.0,0.0,0.0,0.0,23,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,23 år,H90 Uoplyst mv.,0.0,0.0,0.0,0.0,0.0,23,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,24 år,H10 Grundskole,0.0,0.0,0.0,0.0,0.0,24,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,24 år,H20 Gymnasiale uddannelser,0.0,0.0,0.0,0.0,0.0,24,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,24 år,H30 Erhvervsfaglige uddannelser,0.0,0.0,0.0,0.0,0.0,24,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,24 år,H35 Adgangsgivende uddannelsesforløb,0.0,0.0,0.0,0.0,0.0,24,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,24 år,"H40 Korte videregående uddannelser, KVU",0.0,0.0,0.0,0.0,0.0,24,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,24 år,"H50 Mellemlange videregående uddannelser, MVU",0.0,0.0,0.0,0.0,0.0,24,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,24 år,"H60 Bacheloruddannelser, BACH",0.0,0.0,0.0,0.0,0.0,24,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,24 år,"H70 Lange videregående uddannelser, LVU",0.0,0.0,0.0,0.0,0.0,24,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,24 år,H80 Ph.d. og forskeruddannelser,0.0,0.0,0.0,0.0,0.0,24,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,24 år,H90 Uoplyst mv.,0.0,0.0,0.0,0.0,0.0,24,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,25 år,H10 Grundskole,0.0,0.0,0.0,0.0,0.0,25,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,25 år,H20 Gymnasiale uddannelser,0.0,0.0,0.0,0.0,0.0,25,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,25 år,H30 Erhvervsfaglige uddannelser,0.0,0.0,0.0,0.0,0.0,25,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,25 år,H35 Adgangsgivende uddannelsesforløb,0.0,0.0,0.0,0.0,0.0,25,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,25 år,"H40 Korte videregående uddannelser, KVU",0.0,0.0,0.0,0.0,0.0,25,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,25 år,"H50 Mellemlange videregående uddannelser, MVU",0.0,0.0,0.0,0.0,0.0,25,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,25 år,"H60 Bacheloruddannelser, BACH",0.0,0.0,0.0,0.0,0.0,25,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,25 år,"H70 Lange videregående uddannelser, LVU",0.0,0.0,0.0,0.0,0.0,25,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,25 år,H80 Ph.d. og forskeruddannelser,0.0,0.0,0.0,0.0,0.0,25,0.0,,Higher education,,1
+Ingen ungdomsuddannelse,25 år,H90 Uoplyst mv.,0.0,0.0,0.0,0.0,0.0,25,0.0,,Higher education,,1
+H20 Gymnasiale uddannelser,18 år,H10 Grundskole,241.0,301.0,299.0,348.0,342.0,18,1531.0,,Upper secondary,,1
+H20 Gymnasiale uddannelser,18 år,H20 Gymnasiale uddannelser,170.0,184.0,188.0,217.0,178.0,18,937.0,,Upper secondary,,1
+H20 Gymnasiale uddannelser,18 år,H30 Erhvervsfaglige uddannelser,1357.0,1389.0,1505.0,1439.0,1393.0,18,7083.0,,Upper secondary,,1
+H20 Gymnasiale uddannelser,18 år,H35 Adgangsgivende uddannelsesforløb,4.0,5.0,6.0,7.0,6.0,18,28.0,,Upper secondary,,1
+H20 Gymnasiale uddannelser,18 år,"H40 Korte videregående uddannelser, KVU",344.0,329.0,363.0,374.0,390.0,18,1800.0,,Upper secondary,,1
+H20 Gymnasiale uddannelser,18 år,"H50 Mellemlange videregående uddannelser, MVU",1116.0,1163.0,1261.0,1304.0,1227.0,18,6071.0,,Upper secondary,,1
+H20 Gymnasiale uddannelser,18 år,"H60 Bacheloruddannelser, BACH",94.0,88.0,113.0,134.0,121.0,18,550.0,,Upper secondary,,1
+H20 Gymnasiale uddannelser,18 år,"H70 Lange videregående uddannelser, LVU",904.0,1001.0,1083.0,1124.0,1109.0,18,5221.0,,Upper secondary,,1
+H20 Gymnasiale uddannelser,18 år,H80 Ph.d. og forskeruddannelser,147.0,169.0,166.0,180.0,190.0,18,852.0,,Upper secondary,,1
+H20 Gymnasiale uddannelser,18 år,H90 Uoplyst mv.,469.0,626.0,776.0,862.0,816.0,18,3549.0,,Upper secondary,,1
+H20 Gymnasiale uddannelser,19 år,H10 Grundskole,1264.0,1360.0,1375.0,1286.0,1312.0,19,6597.0,,Upper secondary,,1
+H20 Gymnasiale uddannelser,19 år,H20 Gymnasiale uddannelser,873.0,907.0,908.0,845.0,846.0,19,4379.0,,Upper secondary,,1
+H20 Gymnasiale uddannelser,19 år,H30 Erhvervsfaglige uddannelser,8678.0,8287.0,7994.0,7745.0,7053.0,19,39757.0,,Upper secondary,,2
+H20 Gymnasiale uddannelser,19 år,H35 Adgangsgivende uddannelsesforløb,37.0,17.0,31.0,20.0,24.0,19,129.0,,Upper secondary,,1
+H20 Gymnasiale uddannelser,19 år,"H40 Korte videregående uddannelser, KVU",2121.0,2133.0,2093.0,2095.0,2032.0,19,10474.0,,Upper secondary,,0
+H20 Gymnasiale uddannelser,19 år,"H50 Mellemlange videregående uddannelser, MVU",7369.0,7418.0,7237.0,7393.0,7294.0,19,36711.0,,Upper secondary,,0
+H20 Gymnasiale uddannelser,19 år,"H60 Bacheloruddannelser, BACH",631.0,648.0,596.0,675.0,679.0,19,3229.0,,Upper secondary,,1
+H20 Gymnasiale uddannelser,19 år,"H70 Lange videregående uddannelser, LVU",5666.0,5627.0,5943.0,6221.0,6131.0,19,29588.0,,Upper secondary,,0
+H20 Gymnasiale uddannelser,19 år,H80 Ph.d. og forskeruddannelser,780.0,842.0,917.0,954.0,981.0,19,4474.0,,Upper secondary,,1
+H20 Gymnasiale uddannelser,19 år,H90 Uoplyst mv.,1566.0,1916.0,1930.0,2162.0,2121.0,19,9695.0,,Upper secondary,,1
+H20 Gymnasiale uddannelser,20 år,H10 Grundskole,1984.0,1911.0,1922.0,1924.0,1779.0,20,9520.0,,Upper secondary,,1
+H20 Gymnasiale uddannelser,20 år,H20 Gymnasiale uddannelser,1153.0,1241.0,1187.0,1238.0,1117.0,20,5936.0,,Upper secondary,,1
+H20 Gymnasiale uddannelser,20 år,H30 Erhvervsfaglige uddannelser,13879.0,13568.0,12578.0,12142.0,11580.0,20,63747.0,,Upper secondary,,2
+H20 Gymnasiale uddannelser,20 år,H35 Adgangsgivende uddannelsesforløb,34.0,41.0,34.0,40.0,28.0,20,177.0,,Upper secondary,,1
+H20 Gymnasiale uddannelser,20 år,"H40 Korte videregående uddannelser, KVU",3316.0,3389.0,3385.0,3375.0,3362.0,20,16827.0,,Upper secondary,,0
+H20 Gymnasiale uddannelser,20 år,"H50 Mellemlange videregående uddannelser, MVU",12204.0,12165.0,12338.0,12155.0,12661.0,20,61523.0,,Upper secondary,,2
+H20 Gymnasiale uddannelser,20 år,"H60 Bacheloruddannelser, BACH",989.0,935.0,1012.0,986.0,1104.0,20,5026.0,,Upper secondary,,1
+H20 Gymnasiale uddannelser,20 år,"H70 Lange videregående uddannelser, LVU",7973.0,8493.0,8769.0,9441.0,9874.0,20,44550.0,,Upper secondary,,2
+H20 Gymnasiale uddannelser,20 år,H80 Ph.d. og forskeruddannelser,1142.0,1147.0,1248.0,1416.0,1445.0,20,6398.0,,Upper secondary,,1
+H20 Gymnasiale uddannelser,20 år,H90 Uoplyst mv.,2459.0,3144.0,4072.0,4134.0,4262.0,20,18071.0,,Upper secondary,,0
+H20 Gymnasiale uddannelser,21 år,H10 Grundskole,2083.0,2168.0,2076.0,2029.0,2027.0,21,10383.0,,Upper secondary,,0
+H20 Gymnasiale uddannelser,21 år,H20 Gymnasiale uddannelser,1201.0,1231.0,1299.0,1216.0,1282.0,21,6229.0,,Upper secondary,,1
+H20 Gymnasiale uddannelser,21 år,H30 Erhvervsfaglige uddannelser,14961.0,14396.0,14047.0,13054.0,12519.0,21,68977.0,,Upper secondary,,2
+H20 Gymnasiale uddannelser,21 år,H35 Adgangsgivende uddannelsesforløb,35.0,38.0,49.0,33.0,39.0,21,194.0,,Upper secondary,,1
+H20 Gymnasiale uddannelser,21 år,"H40 Korte videregående uddannelser, KVU",3428.0,3462.0,3476.0,3472.0,3492.0,21,17330.0,,Upper secondary,,0
+H20 Gymnasiale uddannelser,21 år,"H50 Mellemlange videregående uddannelser, MVU",12548.0,12633.0,12577.0,12729.0,12559.0,21,63046.0,,Upper secondary,,2
+H20 Gymnasiale uddannelser,21 år,"H60 Bacheloruddannelser, BACH",862.0,1032.0,968.0,1046.0,1026.0,21,4934.0,,Upper secondary,,1
+H20 Gymnasiale uddannelser,21 år,"H70 Lange videregående uddannelser, LVU",7872.0,8237.0,8695.0,9014.0,9675.0,21,43493.0,,Upper secondary,,2
+H20 Gymnasiale uddannelser,21 år,H80 Ph.d. og forskeruddannelser,1084.0,1171.0,1178.0,1277.0,1468.0,21,6178.0,,Upper secondary,,1
+H20 Gymnasiale uddannelser,21 år,H90 Uoplyst mv.,3231.0,3279.0,4205.0,4204.0,3654.0,21,18573.0,,Upper secondary,,0
+H20 Gymnasiale uddannelser,22 år,H10 Grundskole,2181.0,2153.0,2224.0,2100.0,2047.0,22,10705.0,,Upper secondary,,0
+H20 Gymnasiale uddannelser,22 år,H20 Gymnasiale uddannelser,1349.0,1225.0,1227.0,1285.0,1221.0,22,6307.0,,Upper secondary,,1
+H20 Gymnasiale uddannelser,22 år,H30 Erhvervsfaglige uddannelser,15111.0,14929.0,14314.0,13961.0,12991.0,22,71306.0,,Upper secondary,,2
+H20 Gymnasiale uddannelser,22 år,H35 Adgangsgivende uddannelsesforløb,31.0,34.0,36.0,48.0,32.0,22,181.0,,Upper secondary,,1
+H20 Gymnasiale uddannelser,22 år,"H40 Korte videregående uddannelser, KVU",3322.0,3421.0,3431.0,3469.0,3451.0,22,17094.0,,Upper secondary,,0
+H20 Gymnasiale uddannelser,22 år,"H50 Mellemlange videregående uddannelser, MVU",12344.0,12589.0,12638.0,12607.0,12751.0,22,62929.0,,Upper secondary,,2
+H20 Gymnasiale uddannelser,22 år,"H60 Bacheloruddannelser, BACH",863.0,869.0,1030.0,958.0,1047.0,22,4767.0,,Upper secondary,,1
+H20 Gymnasiale uddannelser,22 år,"H70 Lange videregående uddannelser, LVU",7519.0,7908.0,8238.0,8732.0,9071.0,22,41468.0,,Upper secondary,,2
+H20 Gymnasiale uddannelser,22 år,H80 Ph.d. og forskeruddannelser,985.0,1089.0,1169.0,1192.0,1283.0,22,5718.0,,Upper secondary,,1
+H20 Gymnasiale uddannelser,22 år,H90 Uoplyst mv.,3199.0,3288.0,3259.0,3463.0,3399.0,22,16608.0,,Upper secondary,,0
+H20 Gymnasiale uddannelser,23 år,H10 Grundskole,2354.0,2170.0,2162.0,2200.0,2082.0,23,10968.0,,Upper secondary,,0
+H20 Gymnasiale uddannelser,23 år,H20 Gymnasiale uddannelser,1268.0,1334.0,1208.0,1216.0,1273.0,23,6299.0,,Upper secondary,,1
+H20 Gymnasiale uddannelser,23 år,H30 Erhvervsfaglige uddannelser,15839.0,14905.0,14691.0,14077.0,13743.0,23,73255.0,,Upper secondary,,2
+H20 Gymnasiale uddannelser,23 år,H35 Adgangsgivende uddannelsesforløb,35.0,29.0,34.0,38.0,41.0,23,177.0,,Upper secondary,,1
+H20 Gymnasiale uddannelser,23 år,"H40 Korte videregående uddannelser, KVU",3368.0,3277.0,3380.0,3381.0,3438.0,23,16844.0,,Upper secondary,,0
+H20 Gymnasiale uddannelser,23 år,"H50 Mellemlange videregående uddannelser, MVU",12503.0,12283.0,12507.0,12601.0,12516.0,23,62410.0,,Upper secondary,,2
+H20 Gymnasiale uddannelser,23 år,"H60 Bacheloruddannelser, BACH",839.0,848.0,868.0,1021.0,959.0,23,4535.0,,Upper secondary,,1
+H20 Gymnasiale uddannelser,23 år,"H70 Lange videregående uddannelser, LVU",7371.0,7489.0,7878.0,8237.0,8710.0,23,39685.0,,Upper secondary,,2
+H20 Gymnasiale uddannelser,23 år,H80 Ph.d. og forskeruddannelser,943.0,982.0,1084.0,1177.0,1200.0,23,5386.0,,Upper secondary,,1
+H20 Gymnasiale uddannelser,23 år,H90 Uoplyst mv.,3152.0,3155.0,3323.0,2994.0,3141.0,23,15765.0,,Upper secondary,,0
+H20 Gymnasiale uddannelser,24 år,H10 Grundskole,2324.0,2345.0,2171.0,2133.0,2145.0,24,11118.0,,Upper secondary,,0
+H20 Gymnasiale uddannelser,24 år,H20 Gymnasiale uddannelser,1234.0,1279.0,1331.0,1205.0,1216.0,24,6265.0,,Upper secondary,,1
+H20 Gymnasiale uddannelser,24 år,H30 Erhvervsfaglige uddannelser,15101.0,15490.0,14620.0,14366.0,13752.0,24,73329.0,,Upper secondary,,2
+H20 Gymnasiale uddannelser,24 år,H35 Adgangsgivende uddannelsesforløb,30.0,35.0,30.0,37.0,39.0,24,171.0,,Upper secondary,,1
+H20 Gymnasiale uddannelser,24 år,"H40 Korte videregående uddannelser, KVU",3145.0,3316.0,3251.0,3319.0,3337.0,24,16368.0,,Upper secondary,,0
+H20 Gymnasiale uddannelser,24 år,"H50 Mellemlange videregående uddannelser, MVU",11733.0,12358.0,12145.0,12429.0,12460.0,24,61125.0,,Upper secondary,,2
+H20 Gymnasiale uddannelser,24 år,"H60 Bacheloruddannelser, BACH",759.0,833.0,841.0,858.0,1020.0,24,4311.0,,Upper secondary,,1
+H20 Gymnasiale uddannelser,24 år,"H70 Lange videregående uddannelser, LVU",6731.0,7329.0,7440.0,7840.0,8224.0,24,37564.0,,Upper secondary,,0
+H20 Gymnasiale uddannelser,24 år,H80 Ph.d. og forskeruddannelser,861.0,947.0,978.0,1084.0,1171.0,24,5041.0,,Upper secondary,,1
+H20 Gymnasiale uddannelser,24 år,H90 Uoplyst mv.,2864.0,3111.0,3186.0,3079.0,2773.0,24,15013.0,,Upper secondary,,0
+H20 Gymnasiale uddannelser,25 år,H10 Grundskole,2298.0,2288.0,2320.0,2130.0,2105.0,25,11141.0,,Upper secondary,,0
+H20 Gymnasiale uddannelser,25 år,H20 Gymnasiale uddannelser,1262.0,1232.0,1229.0,1306.0,1186.0,25,6215.0,,Upper secondary,,1
+H20 Gymnasiale uddannelser,25 år,H30 Erhvervsfaglige uddannelser,15490.0,14738.0,15131.0,14279.0,14059.0,25,73697.0,,Upper secondary,,2
+H20 Gymnasiale uddannelser,25 år,H35 Adgangsgivende uddannelsesforløb,26.0,33.0,30.0,28.0,29.0,25,146.0,,Upper secondary,,1
+H20 Gymnasiale uddannelser,25 år,"H40 Korte videregående uddannelser, KVU",3237.0,3109.0,3259.0,3190.0,3281.0,25,16076.0,,Upper secondary,,0
+H20 Gymnasiale uddannelser,25 år,"H50 Mellemlange videregående uddannelser, MVU",12163.0,11559.0,12213.0,12034.0,12281.0,25,60250.0,,Upper secondary,,2
+H20 Gymnasiale uddannelser,25 år,"H60 Bacheloruddannelser, BACH",728.0,753.0,834.0,847.0,845.0,25,4007.0,,Upper secondary,,1
+H20 Gymnasiale uddannelser,25 år,"H70 Lange videregående uddannelser, LVU",6762.0,6683.0,7262.0,7392.0,7807.0,25,35906.0,,Upper secondary,,0
+H20 Gymnasiale uddannelser,25 år,H80 Ph.d. og forskeruddannelser,836.0,858.0,932.0,985.0,1093.0,25,4704.0,,Upper secondary,,1
+H20 Gymnasiale uddannelser,25 år,H90 Uoplyst mv.,2897.0,2847.0,3173.0,3070.0,2864.0,25,14851.0,,Upper secondary,,0
+H29 Erhvervsfaglige grundforløb,18 år,H10 Grundskole,0.0,0.0,0.0,0.0,0.0,18,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,18 år,H20 Gymnasiale uddannelser,0.0,0.0,0.0,0.0,0.0,18,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,18 år,H30 Erhvervsfaglige uddannelser,0.0,0.0,0.0,0.0,0.0,18,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,18 år,H35 Adgangsgivende uddannelsesforløb,0.0,0.0,0.0,0.0,0.0,18,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,18 år,"H40 Korte videregående uddannelser, KVU",0.0,0.0,0.0,0.0,0.0,18,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,18 år,"H50 Mellemlange videregående uddannelser, MVU",0.0,0.0,0.0,0.0,0.0,18,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,18 år,"H60 Bacheloruddannelser, BACH",0.0,0.0,0.0,0.0,0.0,18,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,18 år,"H70 Lange videregående uddannelser, LVU",0.0,0.0,0.0,0.0,0.0,18,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,18 år,H80 Ph.d. og forskeruddannelser,0.0,0.0,0.0,0.0,0.0,18,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,18 år,H90 Uoplyst mv.,0.0,0.0,0.0,0.0,0.0,18,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,19 år,H10 Grundskole,0.0,0.0,0.0,0.0,0.0,19,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,19 år,H20 Gymnasiale uddannelser,0.0,0.0,0.0,0.0,0.0,19,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,19 år,H30 Erhvervsfaglige uddannelser,0.0,0.0,0.0,0.0,0.0,19,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,19 år,H35 Adgangsgivende uddannelsesforløb,0.0,0.0,0.0,0.0,0.0,19,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,19 år,"H40 Korte videregående uddannelser, KVU",0.0,0.0,0.0,0.0,0.0,19,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,19 år,"H50 Mellemlange videregående uddannelser, MVU",0.0,0.0,0.0,0.0,0.0,19,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,19 år,"H60 Bacheloruddannelser, BACH",0.0,0.0,0.0,0.0,0.0,19,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,19 år,"H70 Lange videregående uddannelser, LVU",0.0,0.0,0.0,0.0,0.0,19,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,19 år,H80 Ph.d. og forskeruddannelser,0.0,0.0,0.0,0.0,0.0,19,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,19 år,H90 Uoplyst mv.,0.0,0.0,0.0,0.0,0.0,19,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,20 år,H10 Grundskole,0.0,0.0,0.0,0.0,0.0,20,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,20 år,H20 Gymnasiale uddannelser,0.0,0.0,0.0,0.0,0.0,20,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,20 år,H30 Erhvervsfaglige uddannelser,0.0,0.0,0.0,0.0,0.0,20,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,20 år,H35 Adgangsgivende uddannelsesforløb,0.0,0.0,0.0,0.0,0.0,20,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,20 år,"H40 Korte videregående uddannelser, KVU",0.0,0.0,0.0,0.0,0.0,20,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,20 år,"H50 Mellemlange videregående uddannelser, MVU",0.0,0.0,0.0,0.0,0.0,20,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,20 år,"H60 Bacheloruddannelser, BACH",0.0,0.0,0.0,0.0,0.0,20,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,20 år,"H70 Lange videregående uddannelser, LVU",0.0,0.0,0.0,0.0,0.0,20,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,20 år,H80 Ph.d. og forskeruddannelser,0.0,0.0,0.0,0.0,0.0,20,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,20 år,H90 Uoplyst mv.,0.0,0.0,0.0,0.0,0.0,20,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,21 år,H10 Grundskole,0.0,0.0,0.0,0.0,0.0,21,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,21 år,H20 Gymnasiale uddannelser,0.0,0.0,0.0,0.0,0.0,21,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,21 år,H30 Erhvervsfaglige uddannelser,0.0,0.0,0.0,0.0,0.0,21,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,21 år,H35 Adgangsgivende uddannelsesforløb,0.0,0.0,0.0,0.0,0.0,21,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,21 år,"H40 Korte videregående uddannelser, KVU",0.0,0.0,0.0,0.0,0.0,21,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,21 år,"H50 Mellemlange videregående uddannelser, MVU",0.0,0.0,0.0,0.0,0.0,21,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,21 år,"H60 Bacheloruddannelser, BACH",0.0,0.0,0.0,0.0,0.0,21,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,21 år,"H70 Lange videregående uddannelser, LVU",0.0,0.0,0.0,0.0,0.0,21,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,21 år,H80 Ph.d. og forskeruddannelser,0.0,0.0,0.0,0.0,0.0,21,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,21 år,H90 Uoplyst mv.,0.0,0.0,0.0,0.0,0.0,21,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,22 år,H10 Grundskole,0.0,0.0,0.0,0.0,0.0,22,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,22 år,H20 Gymnasiale uddannelser,0.0,0.0,0.0,0.0,0.0,22,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,22 år,H30 Erhvervsfaglige uddannelser,0.0,0.0,0.0,0.0,0.0,22,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,22 år,H35 Adgangsgivende uddannelsesforløb,0.0,0.0,0.0,0.0,0.0,22,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,22 år,"H40 Korte videregående uddannelser, KVU",0.0,0.0,0.0,0.0,0.0,22,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,22 år,"H50 Mellemlange videregående uddannelser, MVU",0.0,0.0,0.0,0.0,0.0,22,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,22 år,"H60 Bacheloruddannelser, BACH",0.0,0.0,0.0,0.0,0.0,22,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,22 år,"H70 Lange videregående uddannelser, LVU",0.0,0.0,0.0,0.0,0.0,22,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,22 år,H80 Ph.d. og forskeruddannelser,0.0,0.0,0.0,0.0,0.0,22,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,22 år,H90 Uoplyst mv.,0.0,0.0,0.0,0.0,0.0,22,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,23 år,H10 Grundskole,0.0,0.0,0.0,0.0,0.0,23,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,23 år,H20 Gymnasiale uddannelser,0.0,0.0,0.0,0.0,0.0,23,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,23 år,H30 Erhvervsfaglige uddannelser,0.0,0.0,0.0,0.0,0.0,23,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,23 år,H35 Adgangsgivende uddannelsesforløb,0.0,0.0,0.0,0.0,0.0,23,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,23 år,"H40 Korte videregående uddannelser, KVU",0.0,0.0,0.0,0.0,0.0,23,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,23 år,"H50 Mellemlange videregående uddannelser, MVU",0.0,0.0,0.0,0.0,0.0,23,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,23 år,"H60 Bacheloruddannelser, BACH",0.0,0.0,0.0,0.0,0.0,23,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,23 år,"H70 Lange videregående uddannelser, LVU",0.0,0.0,0.0,0.0,0.0,23,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,23 år,H80 Ph.d. og forskeruddannelser,0.0,0.0,0.0,0.0,0.0,23,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,23 år,H90 Uoplyst mv.,0.0,0.0,0.0,0.0,0.0,23,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,24 år,H10 Grundskole,0.0,0.0,0.0,0.0,0.0,24,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,24 år,H20 Gymnasiale uddannelser,0.0,0.0,0.0,0.0,0.0,24,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,24 år,H30 Erhvervsfaglige uddannelser,0.0,0.0,0.0,0.0,0.0,24,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,24 år,H35 Adgangsgivende uddannelsesforløb,0.0,0.0,0.0,0.0,0.0,24,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,24 år,"H40 Korte videregående uddannelser, KVU",0.0,0.0,0.0,0.0,0.0,24,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,24 år,"H50 Mellemlange videregående uddannelser, MVU",0.0,0.0,0.0,0.0,0.0,24,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,24 år,"H60 Bacheloruddannelser, BACH",0.0,0.0,0.0,0.0,0.0,24,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,24 år,"H70 Lange videregående uddannelser, LVU",0.0,0.0,0.0,0.0,0.0,24,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,24 år,H80 Ph.d. og forskeruddannelser,0.0,0.0,0.0,0.0,0.0,24,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,24 år,H90 Uoplyst mv.,0.0,0.0,0.0,0.0,0.0,24,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,25 år,H10 Grundskole,0.0,0.0,0.0,0.0,0.0,25,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,25 år,H20 Gymnasiale uddannelser,0.0,0.0,0.0,0.0,0.0,25,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,25 år,H30 Erhvervsfaglige uddannelser,0.0,0.0,0.0,0.0,0.0,25,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,25 år,H35 Adgangsgivende uddannelsesforløb,0.0,0.0,0.0,0.0,0.0,25,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,25 år,"H40 Korte videregående uddannelser, KVU",0.0,0.0,0.0,0.0,0.0,25,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,25 år,"H50 Mellemlange videregående uddannelser, MVU",0.0,0.0,0.0,0.0,0.0,25,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,25 år,"H60 Bacheloruddannelser, BACH",0.0,0.0,0.0,0.0,0.0,25,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,25 år,"H70 Lange videregående uddannelser, LVU",0.0,0.0,0.0,0.0,0.0,25,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,25 år,H80 Ph.d. og forskeruddannelser,0.0,0.0,0.0,0.0,0.0,25,0.0,,Vocational basic,,1
+H29 Erhvervsfaglige grundforløb,25 år,H90 Uoplyst mv.,0.0,0.0,0.0,0.0,0.0,25,0.0,,Vocational basic,,1
+H30 Erhvervsfaglige uddannelser,18 år,H10 Grundskole,42.0,43.0,55.0,36.0,51.0,18,227.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,18 år,H20 Gymnasiale uddannelser,13.0,14.0,15.0,16.0,20.0,18,78.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,18 år,H30 Erhvervsfaglige uddannelser,300.0,327.0,297.0,286.0,251.0,18,1461.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,18 år,H35 Adgangsgivende uddannelsesforløb,1.0,0.0,1.0,0.0,1.0,18,3.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,18 år,"H40 Korte videregående uddannelser, KVU",32.0,36.0,43.0,52.0,35.0,18,198.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,18 år,"H50 Mellemlange videregående uddannelser, MVU",99.0,97.0,106.0,111.0,135.0,18,548.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,18 år,"H60 Bacheloruddannelser, BACH",7.0,2.0,5.0,5.0,12.0,18,31.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,18 år,"H70 Lange videregående uddannelser, LVU",33.0,27.0,29.0,31.0,19.0,18,139.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,18 år,H80 Ph.d. og forskeruddannelser,0.0,4.0,4.0,0.0,5.0,18,13.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,18 år,H90 Uoplyst mv.,25.0,37.0,48.0,49.0,79.0,18,238.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,19 år,H10 Grundskole,157.0,129.0,125.0,155.0,133.0,19,699.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,19 år,H20 Gymnasiale uddannelser,49.0,49.0,47.0,31.0,52.0,19,228.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,19 år,H30 Erhvervsfaglige uddannelser,886.0,966.0,931.0,828.0,864.0,19,4475.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,19 år,H35 Adgangsgivende uddannelsesforløb,1.0,3.0,1.0,2.0,0.0,19,7.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,19 år,"H40 Korte videregående uddannelser, KVU",117.0,127.0,135.0,144.0,128.0,19,651.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,19 år,"H50 Mellemlange videregående uddannelser, MVU",274.0,354.0,311.0,341.0,341.0,19,1621.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,19 år,"H60 Bacheloruddannelser, BACH",16.0,16.0,17.0,20.0,21.0,19,90.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,19 år,"H70 Lange videregående uddannelser, LVU",66.0,79.0,87.0,90.0,85.0,19,407.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,19 år,H80 Ph.d. og forskeruddannelser,5.0,2.0,6.0,7.0,7.0,19,27.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,19 år,H90 Uoplyst mv.,151.0,122.0,114.0,104.0,152.0,19,643.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,20 år,H10 Grundskole,349.0,335.0,304.0,288.0,304.0,20,1580.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,20 år,H20 Gymnasiale uddannelser,87.0,96.0,97.0,85.0,68.0,20,433.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,20 år,H30 Erhvervsfaglige uddannelser,1854.0,2020.0,2106.0,1993.0,1880.0,20,9853.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,20 år,H35 Adgangsgivende uddannelsesforløb,2.0,3.0,3.0,1.0,5.0,20,14.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,20 år,"H40 Korte videregående uddannelser, KVU",261.0,266.0,280.0,288.0,301.0,20,1396.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,20 år,"H50 Mellemlange videregående uddannelser, MVU",570.0,634.0,746.0,705.0,748.0,20,3403.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,20 år,"H60 Bacheloruddannelser, BACH",30.0,32.0,36.0,34.0,37.0,20,169.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,20 år,"H70 Lange videregående uddannelser, LVU",135.0,145.0,169.0,183.0,166.0,20,798.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,20 år,H80 Ph.d. og forskeruddannelser,10.0,12.0,11.0,15.0,16.0,20,64.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,20 år,H90 Uoplyst mv.,236.0,276.0,247.0,219.0,289.0,20,1267.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,21 år,H10 Grundskole,616.0,620.0,578.0,542.0,519.0,21,2875.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,21 år,H20 Gymnasiale uddannelser,155.0,165.0,151.0,151.0,123.0,21,745.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,21 år,H30 Erhvervsfaglige uddannelser,3665.0,3566.0,3778.0,3686.0,3534.0,21,18229.0,,Vocational completed,,0
+H30 Erhvervsfaglige uddannelser,21 år,H35 Adgangsgivende uddannelsesforløb,2.0,4.0,6.0,2.0,4.0,21,18.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,21 år,"H40 Korte videregående uddannelser, KVU",442.0,494.0,529.0,552.0,530.0,21,2547.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,21 år,"H50 Mellemlange videregående uddannelser, MVU",1083.0,1146.0,1288.0,1420.0,1335.0,21,6272.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,21 år,"H60 Bacheloruddannelser, BACH",50.0,52.0,65.0,66.0,63.0,21,296.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,21 år,"H70 Lange videregående uddannelser, LVU",227.0,228.0,270.0,319.0,309.0,21,1353.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,21 år,H80 Ph.d. og forskeruddannelser,18.0,22.0,23.0,25.0,21.0,21,109.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,21 år,H90 Uoplyst mv.,300.0,346.0,394.0,317.0,408.0,21,1765.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,22 år,H10 Grundskole,932.0,870.0,862.0,790.0,734.0,22,4188.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,22 år,H20 Gymnasiale uddannelser,167.0,215.0,212.0,200.0,201.0,22,995.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,22 år,H30 Erhvervsfaglige uddannelser,5137.0,5190.0,4999.0,5078.0,4894.0,22,25298.0,,Vocational completed,,0
+H30 Erhvervsfaglige uddannelser,22 år,H35 Adgangsgivende uddannelsesforløb,9.0,1.0,5.0,7.0,4.0,22,26.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,22 år,"H40 Korte videregående uddannelser, KVU",616.0,671.0,729.0,717.0,769.0,22,3502.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,22 år,"H50 Mellemlange videregående uddannelser, MVU",1443.0,1542.0,1657.0,1790.0,1879.0,22,8311.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,22 år,"H60 Bacheloruddannelser, BACH",55.0,70.0,63.0,86.0,89.0,22,363.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,22 år,"H70 Lange videregående uddannelser, LVU",291.0,326.0,365.0,387.0,452.0,22,1821.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,22 år,H80 Ph.d. og forskeruddannelser,22.0,29.0,32.0,31.0,30.0,22,144.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,22 år,H90 Uoplyst mv.,309.0,453.0,492.0,437.0,390.0,22,2081.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,23 år,H10 Grundskole,1243.0,1158.0,1006.0,1050.0,919.0,23,5376.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,23 år,H20 Gymnasiale uddannelser,234.0,224.0,259.0,239.0,235.0,23,1191.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,23 år,H30 Erhvervsfaglige uddannelser,6493.0,6131.0,6183.0,5897.0,5887.0,23,30591.0,,Vocational completed,,0
+H30 Erhvervsfaglige uddannelser,23 år,H35 Adgangsgivende uddannelsesforløb,5.0,9.0,2.0,5.0,6.0,23,27.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,23 år,"H40 Korte videregående uddannelser, KVU",762.0,769.0,780.0,873.0,849.0,23,4033.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,23 år,"H50 Mellemlange videregående uddannelser, MVU",1682.0,1782.0,1854.0,1957.0,2104.0,23,9379.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,23 år,"H60 Bacheloruddannelser, BACH",69.0,75.0,79.0,85.0,105.0,23,413.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,23 år,"H70 Lange videregående uddannelser, LVU",326.0,365.0,406.0,443.0,471.0,23,2011.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,23 år,H80 Ph.d. og forskeruddannelser,26.0,32.0,35.0,37.0,37.0,23,167.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,23 år,H90 Uoplyst mv.,429.0,450.0,603.0,582.0,537.0,23,2601.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,24 år,H10 Grundskole,1532.0,1431.0,1306.0,1139.0,1164.0,24,6572.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,24 år,H20 Gymnasiale uddannelser,285.0,277.0,250.0,284.0,271.0,24,1367.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,24 år,H30 Erhvervsfaglige uddannelser,7938.0,7388.0,6836.0,6848.0,6580.0,24,35590.0,,Vocational completed,,0
+H30 Erhvervsfaglige uddannelser,24 år,H35 Adgangsgivende uddannelsesforløb,8.0,5.0,9.0,3.0,6.0,24,31.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,24 år,"H40 Korte videregående uddannelser, KVU",895.0,884.0,875.0,897.0,956.0,24,4507.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,24 år,"H50 Mellemlange videregående uddannelser, MVU",2023.0,1991.0,2053.0,2108.0,2261.0,24,10436.0,,Vocational completed,,0
+H30 Erhvervsfaglige uddannelser,24 år,"H60 Bacheloruddannelser, BACH",76.0,82.0,82.0,93.0,98.0,24,431.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,24 år,"H70 Lange videregående uddannelser, LVU",400.0,400.0,435.0,477.0,505.0,24,2217.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,24 år,H80 Ph.d. og forskeruddannelser,29.0,31.0,36.0,44.0,37.0,24,177.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,24 år,H90 Uoplyst mv.,616.0,573.0,621.0,690.0,671.0,24,3171.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,25 år,H10 Grundskole,2002.0,1698.0,1582.0,1435.0,1236.0,25,7953.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,25 år,H20 Gymnasiale uddannelser,338.0,316.0,306.0,281.0,315.0,25,1556.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,25 år,H30 Erhvervsfaglige uddannelser,9587.0,8694.0,8091.0,7449.0,7468.0,25,41289.0,,Vocational completed,,2
+H30 Erhvervsfaglige uddannelser,25 år,H35 Adgangsgivende uddannelsesforløb,8.0,6.0,7.0,10.0,2.0,25,33.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,25 år,"H40 Korte videregående uddannelser, KVU",1027.0,975.0,958.0,948.0,993.0,25,4901.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,25 år,"H50 Mellemlange videregående uddannelser, MVU",2463.0,2257.0,2238.0,2270.0,2320.0,25,11548.0,,Vocational completed,,0
+H30 Erhvervsfaglige uddannelser,25 år,"H60 Bacheloruddannelser, BACH",75.0,84.0,93.0,91.0,114.0,25,457.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,25 år,"H70 Lange videregående uddannelser, LVU",435.0,463.0,473.0,488.0,551.0,25,2410.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,25 år,H80 Ph.d. og forskeruddannelser,27.0,30.0,33.0,41.0,48.0,25,179.0,,Vocational completed,,1
+H30 Erhvervsfaglige uddannelser,25 år,H90 Uoplyst mv.,700.0,731.0,725.0,782.0,769.0,25,3707.0,,Vocational completed,,1
+Andre højere uddannelser,18 år,H10 Grundskole,4.0,2.0,5.0,4.0,2.0,18,17.0,,Higher education,,1
+Andre højere uddannelser,18 år,H20 Gymnasiale uddannelser,1.0,3.0,2.0,0.0,0.0,18,6.0,,Higher education,,1
+Andre højere uddannelser,18 år,H30 Erhvervsfaglige uddannelser,0.0,2.0,5.0,3.0,2.0,18,12.0,,Higher education,,1
+Andre højere uddannelser,18 år,H35 Adgangsgivende uddannelsesforløb,0.0,0.0,0.0,0.0,0.0,18,0.0,,Higher education,,1
+Andre højere uddannelser,18 år,"H40 Korte videregående uddannelser, KVU",2.0,2.0,0.0,0.0,0.0,18,4.0,,Higher education,,1
+Andre højere uddannelser,18 år,"H50 Mellemlange videregående uddannelser, MVU",0.0,4.0,3.0,7.0,0.0,18,14.0,,Higher education,,1
+Andre højere uddannelser,18 år,"H60 Bacheloruddannelser, BACH",1.0,1.0,1.0,1.0,1.0,18,5.0,,Higher education,,1
+Andre højere uddannelser,18 år,"H70 Lange videregående uddannelser, LVU",1.0,5.0,6.0,2.0,1.0,18,15.0,,Higher education,,1
+Andre højere uddannelser,18 år,H80 Ph.d. og forskeruddannelser,1.0,1.0,0.0,0.0,0.0,18,2.0,,Higher education,,1
+Andre højere uddannelser,18 år,H90 Uoplyst mv.,51.0,62.0,170.0,121.0,152.0,18,556.0,,Higher education,,1
+Andre højere uddannelser,19 år,H10 Grundskole,4.0,4.0,4.0,7.0,3.0,19,22.0,,Higher education,,1
+Andre højere uddannelser,19 år,H20 Gymnasiale uddannelser,1.0,3.0,4.0,4.0,1.0,19,13.0,,Higher education,,1
+Andre højere uddannelser,19 år,H30 Erhvervsfaglige uddannelser,2.0,3.0,6.0,6.0,9.0,19,26.0,,Higher education,,1
+Andre højere uddannelser,19 år,H35 Adgangsgivende uddannelsesforløb,0.0,0.0,0.0,0.0,0.0,19,0.0,,Higher education,,1
+Andre højere uddannelser,19 år,"H40 Korte videregående uddannelser, KVU",1.0,3.0,4.0,2.0,0.0,19,10.0,,Higher education,,1
+Andre højere uddannelser,19 år,"H50 Mellemlange videregående uddannelser, MVU",2.0,3.0,5.0,7.0,6.0,19,23.0,,Higher education,,1
+Andre højere uddannelser,19 år,"H60 Bacheloruddannelser, BACH",0.0,1.0,1.0,2.0,0.0,19,4.0,,Higher education,,1
+Andre højere uddannelser,19 år,"H70 Lange videregående uddannelser, LVU",0.0,6.0,6.0,5.0,3.0,19,20.0,,Higher education,,1
+Andre højere uddannelser,19 år,H80 Ph.d. og forskeruddannelser,1.0,3.0,1.0,0.0,1.0,19,6.0,,Higher education,,1
+Andre højere uddannelser,19 år,H90 Uoplyst mv.,220.0,184.0,270.0,357.0,354.0,19,1385.0,,Higher education,,1
+Andre højere uddannelser,20 år,H10 Grundskole,4.0,6.0,7.0,6.0,8.0,20,31.0,,Higher education,,1
+Andre højere uddannelser,20 år,H20 Gymnasiale uddannelser,2.0,4.0,4.0,9.0,4.0,20,23.0,,Higher education,,1
+Andre højere uddannelser,20 år,H30 Erhvervsfaglige uddannelser,10.0,7.0,3.0,6.0,9.0,20,35.0,,Higher education,,1
+Andre højere uddannelser,20 år,H35 Adgangsgivende uddannelsesforløb,0.0,0.0,0.0,0.0,0.0,20,0.0,,Higher education,,1
+Andre højere uddannelser,20 år,"H40 Korte videregående uddannelser, KVU",1.0,1.0,4.0,7.0,3.0,20,16.0,,Higher education,,1
+Andre højere uddannelser,20 år,"H50 Mellemlange videregående uddannelser, MVU",11.0,8.0,8.0,7.0,11.0,20,45.0,,Higher education,,1
+Andre højere uddannelser,20 år,"H60 Bacheloruddannelser, BACH",1.0,0.0,2.0,1.0,1.0,20,5.0,,Higher education,,1
+Andre højere uddannelser,20 år,"H70 Lange videregående uddannelser, LVU",9.0,4.0,11.0,8.0,5.0,20,37.0,,Higher education,,1
+Andre højere uddannelser,20 år,H80 Ph.d. og forskeruddannelser,2.0,1.0,3.0,1.0,0.0,20,7.0,,Higher education,,1
+Andre højere uddannelser,20 år,H90 Uoplyst mv.,508.0,453.0,539.0,745.0,1005.0,20,3250.0,,Higher education,,1
+Andre højere uddannelser,21 år,H10 Grundskole,11.0,11.0,9.0,12.0,9.0,21,52.0,,Higher education,,1
+Andre højere uddannelser,21 år,H20 Gymnasiale uddannelser,7.0,6.0,7.0,6.0,14.0,21,40.0,,Higher education,,1
+Andre højere uddannelser,21 år,H30 Erhvervsfaglige uddannelser,31.0,23.0,24.0,11.0,12.0,21,101.0,,Higher education,,1
+Andre højere uddannelser,21 år,H35 Adgangsgivende uddannelsesforløb,1.0,0.0,0.0,0.0,0.0,21,1.0,,Higher education,,1
+Andre højere uddannelser,21 år,"H40 Korte videregående uddannelser, KVU",6.0,3.0,4.0,7.0,8.0,21,28.0,,Higher education,,1
+Andre højere uddannelser,21 år,"H50 Mellemlange videregående uddannelser, MVU",21.0,21.0,16.0,22.0,17.0,21,97.0,,Higher education,,1
+Andre højere uddannelser,21 år,"H60 Bacheloruddannelser, BACH",3.0,3.0,1.0,3.0,1.0,21,11.0,,Higher education,,1
+Andre højere uddannelser,21 år,"H70 Lange videregående uddannelser, LVU",12.0,16.0,16.0,20.0,21.0,21,85.0,,Higher education,,1
+Andre højere uddannelser,21 år,H80 Ph.d. og forskeruddannelser,2.0,5.0,2.0,4.0,2.0,21,15.0,,Higher education,,1
+Andre højere uddannelser,21 år,H90 Uoplyst mv.,1008.0,1206.0,1557.0,1752.0,2480.0,21,8003.0,,Higher education,,1
+Andre højere uddannelser,22 år,H10 Grundskole,17.0,16.0,14.0,13.0,12.0,22,72.0,,Higher education,,1
+Andre højere uddannelser,22 år,H20 Gymnasiale uddannelser,13.0,12.0,12.0,14.0,10.0,22,61.0,,Higher education,,1
+Andre højere uddannelser,22 år,H30 Erhvervsfaglige uddannelser,50.0,46.0,42.0,41.0,25.0,22,204.0,,Higher education,,1
+Andre højere uddannelser,22 år,H35 Adgangsgivende uddannelsesforløb,0.0,1.0,0.0,1.0,0.0,22,2.0,,Higher education,,1
+Andre højere uddannelser,22 år,"H40 Korte videregående uddannelser, KVU",13.0,9.0,8.0,6.0,11.0,22,47.0,,Higher education,,1
+Andre højere uddannelser,22 år,"H50 Mellemlange videregående uddannelser, MVU",36.0,38.0,43.0,34.0,39.0,22,190.0,,Higher education,,1
+Andre højere uddannelser,22 år,"H60 Bacheloruddannelser, BACH",4.0,4.0,4.0,4.0,3.0,22,19.0,,Higher education,,1
+Andre højere uddannelser,22 år,"H70 Lange videregående uddannelser, LVU",43.0,36.0,46.0,34.0,48.0,22,207.0,,Higher education,,1
+Andre højere uddannelser,22 år,H80 Ph.d. og forskeruddannelser,3.0,5.0,11.0,6.0,2.0,22,27.0,,Higher education,,1
+Andre højere uddannelser,22 år,H90 Uoplyst mv.,2440.0,2382.0,3261.0,3571.0,4053.0,22,15707.0,,Higher education,,0
+Andre højere uddannelser,23 år,H10 Grundskole,31.0,36.0,25.0,26.0,23.0,23,141.0,,Higher education,,1
+Andre højere uddannelser,23 år,H20 Gymnasiale uddannelser,28.0,20.0,20.0,24.0,18.0,23,110.0,,Higher education,,1
+Andre højere uddannelser,23 år,H30 Erhvervsfaglige uddannelser,97.0,78.0,75.0,78.0,73.0,23,401.0,,Higher education,,1
+Andre højere uddannelser,23 år,H35 Adgangsgivende uddannelsesforløb,0.0,0.0,1.0,0.0,1.0,23,2.0,,Higher education,,1
+Andre højere uddannelser,23 år,"H40 Korte videregående uddannelser, KVU",28.0,24.0,19.0,14.0,10.0,23,95.0,,Higher education,,1
+Andre højere uddannelser,23 år,"H50 Mellemlange videregående uddannelser, MVU",71.0,61.0,72.0,70.0,64.0,23,338.0,,Higher education,,1
+Andre højere uddannelser,23 år,"H60 Bacheloruddannelser, BACH",8.0,11.0,7.0,8.0,8.0,23,42.0,,Higher education,,1
+Andre højere uddannelser,23 år,"H70 Lange videregående uddannelser, LVU",59.0,62.0,65.0,76.0,75.0,23,337.0,,Higher education,,1
+Andre højere uddannelser,23 år,H80 Ph.d. og forskeruddannelser,7.0,10.0,10.0,16.0,8.0,23,51.0,,Higher education,,1
+Andre højere uddannelser,23 år,H90 Uoplyst mv.,3836.0,3867.0,4348.0,5091.0,5535.0,23,22677.0,,Higher education,,0
+Andre højere uddannelser,24 år,H10 Grundskole,43.0,48.0,49.0,41.0,41.0,24,222.0,,Higher education,,1
+Andre højere uddannelser,24 år,H20 Gymnasiale uddannelser,27.0,34.0,24.0,30.0,32.0,24,147.0,,Higher education,,1
+Andre højere uddannelser,24 år,H30 Erhvervsfaglige uddannelser,146.0,137.0,124.0,129.0,123.0,24,659.0,,Higher education,,1
+Andre højere uddannelser,24 år,H35 Adgangsgivende uddannelsesforløb,0.0,0.0,1.0,1.0,0.0,24,2.0,,Higher education,,1
+Andre højere uddannelser,24 år,"H40 Korte videregående uddannelser, KVU",32.0,40.0,38.0,27.0,19.0,24,156.0,,Higher education,,1
+Andre højere uddannelser,24 år,"H50 Mellemlange videregående uddannelser, MVU",118.0,114.0,96.0,114.0,112.0,24,554.0,,Higher education,,1
+Andre højere uddannelser,24 år,"H60 Bacheloruddannelser, BACH",13.0,11.0,12.0,11.0,13.0,24,60.0,,Higher education,,1
+Andre højere uddannelser,24 år,"H70 Lange videregående uddannelser, LVU",78.0,93.0,104.0,92.0,117.0,24,484.0,,Higher education,,1
+Andre højere uddannelser,24 år,H80 Ph.d. og forskeruddannelser,16.0,6.0,11.0,16.0,20.0,24,69.0,,Higher education,,1
+Andre højere uddannelser,24 år,H90 Uoplyst mv.,5018.0,4864.0,5491.0,5789.0,6820.0,24,27982.0,,Higher education,,0
+Andre højere uddannelser,25 år,H10 Grundskole,62.0,56.0,68.0,69.0,62.0,25,317.0,,Higher education,,1
+Andre højere uddannelser,25 år,H20 Gymnasiale uddannelser,32.0,36.0,44.0,36.0,39.0,25,187.0,,Higher education,,1
+Andre højere uddannelser,25 år,H30 Erhvervsfaglige uddannelser,194.0,213.0,166.0,189.0,177.0,25,939.0,,Higher education,,1
+Andre højere uddannelser,25 år,H35 Adgangsgivende uddannelsesforløb,0.0,0.0,1.0,0.0,1.0,25,2.0,,Higher education,,1
+Andre højere uddannelser,25 år,"H40 Korte videregående uddannelser, KVU",38.0,44.0,45.0,51.0,39.0,25,217.0,,Higher education,,1
+Andre højere uddannelser,25 år,"H50 Mellemlange videregående uddannelser, MVU",163.0,152.0,145.0,142.0,155.0,25,757.0,,Higher education,,1
+Andre højere uddannelser,25 år,"H60 Bacheloruddannelser, BACH",12.0,14.0,10.0,16.0,15.0,25,67.0,,Higher education,,1
+Andre højere uddannelser,25 år,"H70 Lange videregående uddannelser, LVU",139.0,110.0,121.0,137.0,121.0,25,628.0,,Higher education,,1
+Andre højere uddannelser,25 år,H80 Ph.d. og forskeruddannelser,15.0,18.0,11.0,17.0,24.0,25,85.0,,Higher education,,1
+Andre højere uddannelser,25 år,H90 Uoplyst mv.,5403.0,5661.0,6285.0,6572.0,7053.0,25,30974.0,,Higher education,,0
